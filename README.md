@@ -23,4 +23,4 @@ Requires swift 4 or above
 
 You Can Create your Own ML Model USing Make ML
 
-Link to Oxfor ML model (https://github.com/gaelfoppolo/CoreML-Flowers)
+Link to Oxford ML model (https://github.com/gaelfoppolo/CoreML-Flowers)
